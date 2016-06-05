@@ -6,6 +6,7 @@ rabbitmq_ulimit_open_files: 1024
 rabbitmq_create_cluster: no
 rabbitmq_cluster_master: localhost
 rabbitmq_use_longname: 'false'
+rabbitmq_version: ''
 rabbitmq_vhosts: []
 rabbitmq_ha_enabled: no
 rabbitmq_ha_pattern: '.*'
